@@ -1,0 +1,25 @@
+
+.container{
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: space-between;
+  text-align: center;
+  margin-top: 50px;
+}
+.new-bali{
+  width: 30%;
+  height: 70%;
+  border: none;
+  
+  border-radius: 33px;
+  overflow: hidden;
+  box-shadow: 122px gray;
+}
+.new-bali img{
+  width: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  height: 250px;
+}
+
